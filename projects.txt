@@ -1,0 +1,2 @@
+{"project_name": "abdo", "project_description": "asdasda", "total_target": "55000", "project_start_date": "2-2-2025", "project_end_date": "2-2-2026", "owner": "01033918990"}
+{"project_name": "kher", "project_description": "asdaas", "total_target": "50000", "project_start_date": "2-2-2025", "project_end_date": "2-2-2026", "owner": "01144399415"}
